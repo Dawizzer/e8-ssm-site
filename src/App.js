@@ -567,15 +567,7 @@ export default function E8Site() {
                 }}>
                 View on GitHub
               </a>
-              <a href="https://arxiv.org" target="_blank" rel="noreferrer"
-                style={{
-                  display: "inline-block", padding: "12px 28px",
-                  border: `1px solid ${C.border}`, color: C.text,
-                  fontWeight: 600, fontSize: 14, borderRadius: 8,
-                  textDecoration: "none",
-                }}>
-                Read the Paper →
-              </a>
+              
             </div>
           </div>
         </Section>
