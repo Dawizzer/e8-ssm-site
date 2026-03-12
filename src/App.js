@@ -72,7 +72,7 @@ function AnimatedNumber({ value, suffix = "", decimals = 2, color = C.e8 }) {
       ([entry]) => {
         if (entry.isIntersecting && !started.current) {
           started.current = true;
-          let start = 0;
+          // let start = 0;
           const duration = 1200;
           const startTime = Date.now();
           const animate = () => {
