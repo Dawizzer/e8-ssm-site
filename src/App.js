@@ -591,6 +591,7 @@ export default function E8Site() {
           <div style={{ marginTop: 8, fontFamily: mono, color: C.e8 + "66" }}>
             github.com/Dawizzer/e8-ssm-quantization
           </div>
+          <div style={{ marginTop: 4, fontSize: 11, color: "#64748b" }}>Non-commercial license. Attribution required.</div>
         </div>
       </div>
     </div>
